@@ -1,4 +1,3 @@
-# roll-a-ball
-
-# Author
-* Francisco Moreno
+##Author
+* Fede Vico Abad
+ 

@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Pickup
+  - Ground
+  - Monede
+  - Limit
+  - Monede2
   layers:
   - Default
   - TransparentFX
@@ -15,7 +18,7 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
+  - Ground
   - 
   - 
   - 
