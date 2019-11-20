@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerContent : MonoBehaviour
 {
+    public Text scoreText;
     public Rigidbody myRigidbody;
     public float speed;
 
